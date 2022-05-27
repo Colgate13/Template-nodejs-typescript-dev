@@ -29,3 +29,8 @@ Template para criação de projetos em nodejs usando typescript e testes automat
 - [x] Configuração para modules
 - [x] Configuração para Testes unitarios
 
+## License
+
+<div id="license"></div>
+
+MIT [LICENSE](LICENSE.md)
