@@ -10,7 +10,9 @@
     "test": "jest",
     "test:coverage": "jest --coverage",
     "test:watch": "jest --watchAll --maxWorkers=1",
-    "test:clear": "jest --clearCache"
+    "test:clear": "jest --clearCache",
+    "dependeciesUpdateCheck": "npm outdated",
+    "dependeciesUpdate": "npm update"
   },
   "keywords": [],
   "author": "",
