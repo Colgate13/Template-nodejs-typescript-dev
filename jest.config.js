@@ -16,7 +16,10 @@ module.exports = {
   coverageReporters: [
     'text-summary',
     'lcov',
-    'html'
+    'html',
+    'json',
+    'text',
+    'clover'
   ],
   moduleNameMapper: pathsToModuleNameMapper(compilerOptions.paths, {
     prefix: '<rootDir>/src',
